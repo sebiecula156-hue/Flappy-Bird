@@ -27,10 +27,10 @@ The codebase is modularized for better maintainability:
 
 ## 📦 Installation & Setup
 
-  **Prerequisites:**
+ * **Prerequisites:**
     * Python 3.x
     * Pygame library
-    * 
+
 ---
 
 ## 🎮 How to Play
